@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(79,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(106,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(107,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(108,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(117,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(118,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(119,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(129,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(130,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(141,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(142,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(158,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(176,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(285,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(307,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(311,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(312,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(324,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(325,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(332,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(333,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(346,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(347,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(354,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(355,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(362,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(363,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(535,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(538,70): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\cobabuatgame\main.cpp(538,49): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  cobabuatgame.vcxproj -> D:\FAQIH\KULIAH\TUGAS\SMT 1\KONSEP PEMROGRAMAN\BUAT GAME\cobabuatgame\x64\Debug\cobabuatgame.exe
